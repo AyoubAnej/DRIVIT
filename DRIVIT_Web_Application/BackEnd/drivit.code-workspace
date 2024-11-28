@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../driveit/SoftLand"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SoftLand"
+	}
+}
